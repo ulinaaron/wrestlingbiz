@@ -1,0 +1,8 @@
+{
+  "name": "wrestling-biz-electron",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "electron": "^22.0.0"
+  }
+}
